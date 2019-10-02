@@ -1,0 +1,8 @@
+./masscan 173.0.63.196/8 -p22 --rate 10000 -oG ips.txt
+grep -oP '(?<=Host: )\S*' ips.txt > mfu.txt
+
+./update 1000
+
+Wait for that to finish
+
+perl w.pl vulns.txt

