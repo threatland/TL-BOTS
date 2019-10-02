@@ -125,7 +125,7 @@ whether or not a given system is exploitable.
 
 GreyNoise has tagged a lot of malicious outgoing traffic based on various exploits 
 that have been used in the malware contained in this repo. Taking a look at their 
-[https://viz.greynoise.io/cheat-sheet/examples](cheatsheet), you can see that there are many ways to explore the dataset, and look 
+[cheatsheet](https://viz.greynoise.io/cheat-sheet/examples), you can see that there are many ways to explore the dataset, and look 
 up where certain types of malware may be operating from.
 
 ### Inhale ###
@@ -133,5 +133,5 @@ up where certain types of malware may be operating from.
 Inhale is a tool written by @netspooky that was used to aggregrate and classify 
 a majority of the files you see in this repo. It uses a number of static analysis 
 techniques to enumerate data from a given file, and store that information for 
-further analysis. You can find out more information about using it [https://github.com/netspooky/inhale](here).
+further analysis. You can find out more information about using it [here](https://github.com/netspooky/inhale).
 
