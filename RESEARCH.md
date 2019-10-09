@@ -22,7 +22,7 @@ maintainers.
 
 Scanners are to generate lists of vulnerable IPs by checking whether or not 
 they exhibit characteristics of a vulnerable device. In some cases, a scanner 
-may perform the intial loading of a payload (eg. downloading a script), or 
+may perform the initial loading of a payload (eg. downloading a script), or 
 other tactic to get an initial foothold, but this is not always the case.
 
 Exploits are the exploits that are actually performed on a list of devices. 
@@ -76,7 +76,7 @@ This collection contains some earlier versions of QBot malware that doesn't
 quite fit into the QBot category. They may be more unique forks, or contain 
 elements from a completely different class of botnet. The variants in here 
 are typically much older, as P2P refers to the method of self-replication, that 
-was superceded by the slang term "self-rep". They may be treated as QBot-like, 
+was superseded by the slang term "self-rep". They may be treated as QBot-like, 
 for research purposes, but they are not typically deployed as often in the wild 
 due to relying on older self replication methods like simple telnet bruteforcing.
 
@@ -130,7 +130,7 @@ up where certain types of malware may be operating from.
 
 ### Inhale ###
 
-Inhale is a tool written by @netspooky that was used to aggregrate and classify 
+Inhale is a tool written by @netspooky that was used to aggregate and classify 
 a majority of the files you see in this repo. It uses a number of static analysis 
 techniques to enumerate data from a given file, and store that information for 
 further analysis. You can find out more information about using it [here](https://github.com/netspooky/inhale).
